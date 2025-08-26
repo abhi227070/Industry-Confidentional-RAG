@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+boto3
+pypdf
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-pinecone
+pinecone-client
