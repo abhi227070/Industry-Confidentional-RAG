@@ -19,7 +19,7 @@ K = 3
 SIMILARITY_TYPE = "similarity"
 
 # RAG Chain Constants
-MODEL = 'gemini-1.5-flash'
+MODEL = 'gemini-2.5-flash'
 TEMPERATURE = 0.2
 
 # Application Constants
