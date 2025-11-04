@@ -51,6 +51,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Screenshots:
+![Application Screenshot](screenshots/image.png)
+
 ## Project Structure
 - `app.py` - Streamlit UI
 - `components/` - Data loading, embedding, vector store, etc.
@@ -59,3 +62,4 @@ streamlit run app.py
 
 ## License
 MIT
+
